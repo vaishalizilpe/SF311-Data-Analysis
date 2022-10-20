@@ -39,9 +39,8 @@ Outer Sunset
 Missin Dolores
 
 
-Recommendations: 
+<img width="957" alt="image" src="https://user-images.githubusercontent.com/9604443/196853268-97913478-63c6-4bcf-a6a4-ddd4aabc833b.png">
 
-Improve Customer Experience - By sending ETC (Use Category and Neighborhood)
-Proactive Launch of additional Cleaning Programs or Initiatives  in peak areas
-Tag Duplicate Requests - Standardization of Category and neighborhood or address data (~5% duplicates from 2015 to 2017)
-Categorization of Requests Prior - Redirect to SFPD or animal control
+<img width="950" alt="image" src="https://user-images.githubusercontent.com/9604443/196853316-9c35a19c-6428-42c7-a0c5-263ce7839987.png">
+
+
